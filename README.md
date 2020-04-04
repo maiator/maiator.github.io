@@ -1,3 +1,3 @@
-# Free Code Camp
+# Wordpress theme
 
-This is where I will be doing all of my programming in order to obtain my front end web developer certificate.
+This is where I will be doing all of my programming to create my own wordpress theme.
