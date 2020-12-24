@@ -1,3 +1,3 @@
-# Wordpress theme
+# Jeckyll Site Project
 
-This is where I will be doing all of my programming to create my own wordpress theme.
+This is where I will be doing all of my programming.
